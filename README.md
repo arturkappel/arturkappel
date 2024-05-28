@@ -1,15 +1,4 @@
 ### Hi there 👋
-
-I'm a Mechanical Engineer in the process to become a DEV!
-
-- 🌱 I’m currently learning JAVASCRIPT, CSS, HTML, NODE.JS, REACT
-- 👯 I’m looking to collaborate on any project wich I can help
-- 💬 Ask me anything you want, I'll try my best to answer you
-- 📫 How to reach me in Instagram: @arturkappel
-
-Fell free to reach me during this journey.
-
-Hope you will enjoy!
 <!--
 **arturkappel/arturkappel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
